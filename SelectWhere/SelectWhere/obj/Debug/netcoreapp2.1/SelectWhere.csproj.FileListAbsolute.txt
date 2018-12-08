@@ -1,0 +1,11 @@
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\SelectWhere\SelectWhere\bin\Debug\netcoreapp2.1\SelectWhere.deps.json
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\SelectWhere\SelectWhere\bin\Debug\netcoreapp2.1\SelectWhere.runtimeconfig.json
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\SelectWhere\SelectWhere\bin\Debug\netcoreapp2.1\SelectWhere.runtimeconfig.dev.json
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\SelectWhere\SelectWhere\bin\Debug\netcoreapp2.1\SelectWhere.dll
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\SelectWhere\SelectWhere\bin\Debug\netcoreapp2.1\SelectWhere.pdb
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\SelectWhere\SelectWhere\obj\Debug\netcoreapp2.1\SelectWhere.csprojAssemblyReference.cache
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\SelectWhere\SelectWhere\obj\Debug\netcoreapp2.1\SelectWhere.csproj.CoreCompileInputs.cache
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\SelectWhere\SelectWhere\obj\Debug\netcoreapp2.1\SelectWhere.AssemblyInfoInputs.cache
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\SelectWhere\SelectWhere\obj\Debug\netcoreapp2.1\SelectWhere.AssemblyInfo.cs
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\SelectWhere\SelectWhere\obj\Debug\netcoreapp2.1\SelectWhere.dll
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\SelectWhere\SelectWhere\obj\Debug\netcoreapp2.1\SelectWhere.pdb
