@@ -1,0 +1,14 @@
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.Domain.dll
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.Domain.pdb
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CopyComplete
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+C:\Users\Willian Raphael\source\repos\LinqAndLambda\LinqAndLambda\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
